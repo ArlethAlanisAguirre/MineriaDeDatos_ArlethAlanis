@@ -10,3 +10,5 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 [Código Ejercicios 1](https://github.com/armandios/armando/blob/master/Ejercicios_1.ipynb)
 
 [Resumenes Técnicas](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/Resumenes_1801925.pdf)
+
+[Mapa Mental 2](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental2_1801925.pdf)
