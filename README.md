@@ -12,3 +12,5 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 [Resumenes Técnicas](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/Resumenes_1801925.pdf)
 
 [Mapa Mental 2](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental2_1801925.pdf)
+
+[Análisis BD](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/AnalisisBD_1801925.pdf)
