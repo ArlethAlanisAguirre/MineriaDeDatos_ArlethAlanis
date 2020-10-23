@@ -17,6 +17,7 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 
 
 **Etapa 2**
+
 [Análisis BD](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/AnalisisBD_1801925.pdf)
 
 [Ejercicios Básicos Python](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PythonBasico_1801925.ipynb)
