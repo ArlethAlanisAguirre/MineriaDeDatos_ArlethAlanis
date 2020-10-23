@@ -1,6 +1,8 @@
 # MineriaDeDatos_ArlethAlanis
 Respaldo de tareas de la materia Minería de Datos Grupo 003
 
+**Etapa 1**
+
 [Mapa Mental 1](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental_1_1801925.pdf)
 
 [Regresión Lineal](https://github.com/armandios/armando/blob/master/Presentacion_%7BRegresion%7D_%7BN.%20de%20equipo%7D.pdf)
@@ -13,4 +15,8 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 
 [Mapa Mental 2](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental2_1801925.pdf)
 
+
+**Etapa 2**
 [Análisis BD](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/AnalisisBD_1801925.pdf)
+
+[Ejercicios Básicos Python](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PythonBasico_1801925.ipynb)
