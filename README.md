@@ -23,3 +23,7 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 [Ejercicios Básicos Python](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PythonBasico_1801925.ipynb)
 
 [Avance 1 PIA - Equipo 01](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/Avance1-PIA_Equipo01_Grupo03.pdf)
+
+[Práctica 1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P1-Manipulaci%C3%B3nDeDatos_Equipo01_Grupo03.ipynb)
+
+[Práctica 2](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P2-Visualizaci%C3%B3nDeDatos_Equipo01_Grupo03.ipynb)
