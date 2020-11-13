@@ -27,3 +27,5 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 [Práctica 1](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P1-Manipulaci%C3%B3nDeDatos_Equipo01_Grupo03.ipynb)
 
 [Práctica 2](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P2-Visualizaci%C3%B3nDeDatos_Equipo01_Grupo03.ipynb)
+
+[Avance 2 PIA- Equipo 01](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/AvancePIA_II_Grupo03_Equipo01.ipynb)
