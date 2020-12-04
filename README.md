@@ -33,4 +33,4 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 
 [Avance 2 PIA- Equipo 01](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/AvancePIA_II_Grupo03_Equipo01.ipynb)
 
-[PIA Minería](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PIA%20Equipo%201.pdf
+[PIA Minería](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PIA%20Equipo%201.pdf)
