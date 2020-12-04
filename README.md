@@ -1,7 +1,7 @@
 # MineriaDeDatos_ArlethAlanis
 Respaldo de tareas de la materia Minería de Datos Grupo 003
 
-**Etapa 1**
+**FASE 1**
 
 [Mapa Mental 1](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental_1_1801925.pdf)
 
@@ -16,7 +16,7 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 [Mapa Mental 2](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/MapaMental2_1801925.pdf)
 
 
-**Etapa 2**
+**FASE 2**
 
 [Análisis BD](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/AnalisisBD_1801925.pdf)
 
@@ -28,4 +28,9 @@ Respaldo de tareas de la materia Minería de Datos Grupo 003
 
 [Práctica 2](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/P2-Visualizaci%C3%B3nDeDatos_Equipo01_Grupo03.ipynb)
 
+
+**FASE 3**
+
 [Avance 2 PIA- Equipo 01](https://github.com/OmarAlejandroGarzaEspinosa/MineriaDeDatos_OmarGarza_1931548/blob/master/AvancePIA_II_Grupo03_Equipo01.ipynb)
+
+[PIA Minería](https://github.com/ArlethAlanisAguirre/MineriaDeDatos_ArlethAlanis/blob/master/PIA%20Equipo%201.pdf
